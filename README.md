@@ -1,9 +1,9 @@
-# mobilography-web
+# ProXmedia
 
-> Powered by **MKM777**
+> A modern platform for media industry professionals.
 
-Bu **mobilography** Flutter ilovasining tayyor web build'i. GitHub Pages uchun
-sozlangan — push qilsangiz, sayt bevosita ishlaydi.
+Bu **ProXmedia** Flutter ilovasining tayyor web build'i. GitHub Pages uchun
+sozlangan (`base-href = /ProXmedia/`) — push qilsangiz, sayt bevosita ishlaydi.
 
 ---
 
